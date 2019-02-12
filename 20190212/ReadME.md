@@ -1,4 +1,4 @@
-#![每日美图](https://upload-images.jianshu.io/upload_images/13419832-b28223719a47c5d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![每日美图](https://upload-images.jianshu.io/upload_images/13419832-b28223719a47c5d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #介绍
 在学完了sass语法之后我们可以正式开始学习bootstrap-4.0的源码啦，还不熟悉sass的读者可以查看我的[sass专题呀](https://www.jianshu.com/c/9c1d5608c810)。
 在学习bootstrap之前我们也是一样需要下载bootstrap的源码，读者可以点击[链接](https://codeload.github.com/twbs/bootstrap/zip/v4.0.0)下载,下载完成之后同样需要导入webstrom中。
