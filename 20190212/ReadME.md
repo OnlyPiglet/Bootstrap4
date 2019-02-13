@@ -4,7 +4,7 @@
 在学习bootstrap之前我们也是一样需要下载bootstrap的源码，读者可以点击[链接](https://codeload.github.com/twbs/bootstrap/zip/v4.0.0)下载,下载完成之后同样需要导入webstrom中。
 如果还不知道如何安装sass与webstorm的读者也可以点击[Sass开发环境安装](https://www.jianshu.com/p/7c9aa05782e6)进行查看并安装。
 #初次尝试
-在完成了环境安装之后，可以编写如下的test.html
+在完成了环境安装之后，可以编写如下的test.html:cloud:
 ```html
 <!doctype html>
 <html lang="zh-cn">
